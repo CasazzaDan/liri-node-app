@@ -11,7 +11,7 @@ node liri.js
 ```
 The following prompt should appear
 
-![image](liri-node-app/demo-screenshots/start prompt.png)
+![image](/demo-screenshots/start prompt.png)
 
 ## Built With
 
